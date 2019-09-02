@@ -1,0 +1,29 @@
+h1
+{
+    color: darkmagenta;
+}
+p
+{
+    color: darkmagenta;
+}
+h4
+{
+    color: darkmagenta;
+}
+input
+{
+    width: 200px;
+    border-color: darkmagenta;
+}
+
+
+textarea
+{
+    width: 200px;
+    height: 220px;
+    border-color: darkmagenta;
+}
+button a
+{
+    text-decoration-line: none;
+}

@@ -1,0 +1,72 @@
+body
+{
+    background-color: white;
+}
+img
+{
+    width: 400px;
+    height: 500px;
+    float: right;
+    border-bottom-left-radius: 30px;
+/*    border-bottom-right-radius: 30px;*/
+    border-top-left-radius: 30px;
+}
+.d1
+{
+    background-color:darkmagenta;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+/*    border-bottom-left-radius: 30px;*/
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.d1 h1
+{
+    color: white;
+    font-family: 'Great Vibes', cursive;
+    font-size: 60px;
+/*    font-weight: 2000;*/
+    font-style: italic;
+    padding-top: 15px;
+}
+.d3
+{
+    background-color: darkmagenta;
+    width: 500px;
+    height: 400px;
+/*    border-bottom-left-radius: 30px;*/
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    margin-top: 100px;
+}
+.d3 h3
+{
+    color: white;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.d3 ul
+{
+    color: white;
+    padding-left: 50px;
+}
+.d3 p
+{
+    color: white;
+    padding-left: 30px;
+}
+.d4
+{
+    width: 250px;
+    height: 50px;
+    background-color: darkmagenta;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.d4 h3
+{
+    color: white;
+    padding-left: 20px;
+    padding-top: 10px;
+}
